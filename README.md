@@ -74,7 +74,6 @@ Egna projekt.
 Mitt nätverk.
 
 	Local:
-	
 		Router.
 			Dynamic DNS.
 	
