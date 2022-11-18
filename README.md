@@ -2,9 +2,9 @@
 --------------------------------------------------------------------------------------------------------------------
 Dream jobs: 
 
-	The Internet Archive
-	Bahnhof (Serverhall)
-	Tor Foundation
+	The Internet Archive (Data preservation, huge storage arrays)
+	Bahnhof (Serverhall -> Pionen)
+	Tor Foundation (Network)
 --------------------------------------------------------------------------------------------------------------------
 Github Open-Source:
 
