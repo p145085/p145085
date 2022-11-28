@@ -2,18 +2,18 @@
 --------------------------------------------------------------------------------------------------------------------
 Dream jobs: 
 
-	<a href="https://archive.org/>The Internet Archive</a> (Data preservation, huge storage arrays)
-	<a href="https://bahnhof.se/>Bahnhof</a> (Serverhall -> Pionen)
-	<a href="https://www.torproject.org/>Tor Foundation</a> (Network)
+	[The Internet Archive](https://archive.org) (Data preservation, huge storage arrays)
+	[Bahnhof]([url](https://bahnhof.se)) (Serverhall -> Pionen)
+	[Tor Foundation]([url](https://www.torproject.org)) (Network)
 --------------------------------------------------------------------------------------------------------------------
 Github Open-Source:
 
-	IRSSI					<a href="https://github.com/irssi/irssi">			C
-	Hydrus Network				<a href="https://github.com/hydrusnetwork">			Python
-	LASH / Cat9				<a href="https://github.com/letoram/cat9">			LUA
-	ServUO					<a href="https://github.com/ServUO/ServUO">			C#
-	ClassicUO				<a href="https://github.com/ClassicUO/ClassicUO">		C#
-	Storj					<a href="https://github.com/storj/storj">			Go
+	[IRSSI]([url](https://github.com/irssi/irssi))					C
+	[Hydrus Network]([url](https://github.com/hydrusnetwork))			Python
+	[Cat9]([url](https://github.com/letoram/cat9))					LUA
+	[ServUO]([url](https://github.com/ServUO/ServUO))				C#
+	[ClassicUO]([url](https://github.com/ClassicUO/ClassicUO))			C#
+	[Storj]([url](https://github.com/storj/storj))					Go
 
 --------------------------------------------------------------------------------------------------------------------
 Egna projekt.
