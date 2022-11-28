@@ -1,4 +1,10 @@
 ![](https://c.tenor.com/PETBj_OJmJUAAAAC/leekspin.gif)
+Programmeringsspråk:
+
+	- C#
+	- HTML, CSS, JS, MySQL
+	- Java
+	- Bash
 --------------------------------------------------------------------------------------------------------------------
 Drömjobb: 
 
