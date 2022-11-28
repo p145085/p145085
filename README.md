@@ -1,10 +1,10 @@
 ![](https://c.tenor.com/PETBj_OJmJUAAAAC/leekspin.gif)
 --------------------------------------------------------------------------------------------------------------------
-Dream jobs: 
+Drömjobb: 
 
-	[The Internet Archive](https://archive.org) (Data preservation, huge storage arrays)
-	[Bahnhof]([url](https://bahnhof.se)) (Serverhall -> Pionen)
-	[Tor Foundation]([url](https://www.torproject.org)) (Network)
+	[The Internet Archive]([url](https://archive.org)) 		(Data preservation -> huge storage arrays)
+	[Bahnhof]([url](https://bahnhof.se)) 				(Serverhall -> 'Pionen')
+	[Tor Foundation]([url](https://www.torproject.org)) 		(Network)
 --------------------------------------------------------------------------------------------------------------------
 Github Open-Source:
 
