@@ -7,12 +7,6 @@ Programmeringsspråk:
 	- Java
 	- Bash
 --------------------------------------------------------------------------------------------------------------------
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 Drömjobb:
 | URL 								| Desc. 							|
 | -------------------------------------------------------------	| -------------------------------------------------------------	|
@@ -21,25 +15,14 @@ Drömjobb:
 | [Tor Foundation](https://www.torproject.org) 			| (Network) 							|
 --------------------------------------------------------------------------------------------------------------------
 Github Open-Source:
-
-[IRSSI](https://github.com/irssi/irssi)
-C
-
-[Hydrus Network](https://github.com/hydrusnetwork)
-Python
-
-[Cat9](https://github.com/letoram/cat9)
-LUA
-
-[ServUO](https://github.com/ServUO/ServUO)
-C#
-
-[ClassicUO](https://github.com/ClassicUO/ClassicUO)
-C#
-
-[Storj](https://github.com/storj/storj)
-Go
-
+| URL 								| Lang. 							|
+| -------------------------------------------------------------	| -------------------------------------------------------------	|
+| [IRSSI](https://github.com/irssi/irssi)			| C								|
+| [Hydrus Network](https://github.com/hydrusnetwork)		| Python							|
+| [Cat9](https://github.com/letoram/cat9) 			| LUA								|
+| [ServUO](https://github.com/ServUO/ServUO) 			| C#								|
+| [ClassicUO](https://github.com/ClassicUO/ClassicUO)		| C#								|
+| [Storj](https://github.com/storj/storj)			| Go								|
 --------------------------------------------------------------------------------------------------------------------
 Egna projekt.
 
