@@ -12,24 +12,32 @@ Drömjobb:
 [The Internet Archive](https://archive.org)
 (Data preservation -> huge storage arrays)
 
-[Bahnhof](https://bahnhof.se) 						<p align="right">(Serverhall -> 'Pionen')</p>
+[Bahnhof](https://bahnhof.se)
+(Serverhall -> 'Pionen')
 
-[Tor Foundation](https://www.torproject.org) 				<p align="right">(Network)</p>
+[Tor Foundation](https://www.torproject.org)
+(Network)
 
 --------------------------------------------------------------------------------------------------------------------
 Github Open-Source:
 
-[IRSSI](https://github.com/irssi/irssi)					<p align="right">C</p>
+[IRSSI](https://github.com/irssi/irssi)
+C
 
-[Hydrus Network](https://github.com/hydrusnetwork)			<p align="right">Python</p>
+[Hydrus Network](https://github.com/hydrusnetwork)
+Python
 
-[Cat9](https://github.com/letoram/cat9)					<p align="right">LUA</p>
+[Cat9](https://github.com/letoram/cat9)
+LUA
 
-[ServUO](https://github.com/ServUO/ServUO)				<p align="right">C#</p>
+[ServUO](https://github.com/ServUO/ServUO)
+C#
 
-[ClassicUO](https://github.com/ClassicUO/ClassicUO)			<p align="right">C#</p>
+[ClassicUO](https://github.com/ClassicUO/ClassicUO)
+C#
 
-[Storj](https://github.com/storj/storj)					<p align="right">Go</p>
+[Storj](https://github.com/storj/storj)
+Go
 
 --------------------------------------------------------------------------------------------------------------------
 Egna projekt.
