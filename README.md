@@ -7,26 +7,28 @@ Programmeringsspråk:
 	- Java
 	- Bash
 --------------------------------------------------------------------------------------------------------------------
-Drömjobb: 
-[The Internet Archive](https://archive.org) 				(Data preservation -> huge storage arrays)
+Drömjobb:
 
-[Bahnhof](https://bahnhof.se) 						(Serverhall -> 'Pionen')
+[The Internet Archive](https://archive.org) 				<p align="right">(Data preservation -> huge storage arrays)</p>
 
-[Tor Foundation](https://www.torproject.org) 				(Network)
+[Bahnhof](https://bahnhof.se) 						<p align="right">(Serverhall -> 'Pionen')</p>
+
+[Tor Foundation](https://www.torproject.org) 				<p align="right">(Network)</p>
 
 --------------------------------------------------------------------------------------------------------------------
 Github Open-Source:
-[IRSSI](https://github.com/irssi/irssi)					C
 
-[Hydrus Network](https://github.com/hydrusnetwork)			Python
+[IRSSI](https://github.com/irssi/irssi)					<p align="right">C</p>
 
-[Cat9](https://github.com/letoram/cat9)					LUA
+[Hydrus Network](https://github.com/hydrusnetwork)			<p align="right">Python</p>
 
-[ServUO](https://github.com/ServUO/ServUO)				C#
+[Cat9](https://github.com/letoram/cat9)					<p align="right">LUA</p>
 
-[ClassicUO](https://github.com/ClassicUO/ClassicUO)			C#
+[ServUO](https://github.com/ServUO/ServUO)				<p align="right">C#</p>
 
-[Storj](https://github.com/storj/storj)					Go
+[ClassicUO](https://github.com/ClassicUO/ClassicUO)			<p align="right">C#</p>
+
+[Storj](https://github.com/storj/storj)					<p align="right">Go</p>
 
 --------------------------------------------------------------------------------------------------------------------
 Egna projekt.
