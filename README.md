@@ -10,9 +10,9 @@ Programmeringsspråk:
 Drömjobb:
 | URL 								| Desc. 							|
 | -------------------------------------------------------------	| -------------------------------------------------------------	|
-| [The Internet Archive](https://archive.org) 			| (Data preservation -> huge storage arrays) 			|
-| [Bahnhof](https://bahnhof.se) 				| (Serverhall -> 'Pionen') 					|
-| [Tor Foundation](https://www.torproject.org) 			| (Network) 							|
+| [The Internet Archive](https://archive.org) 			| Data preservation -> Huge storage arrays 			|
+| [Bahnhof](https://bahnhof.se) 				| Serverhall -> 'Pionen' -> Bunker				|
+| [Tor Foundation](https://www.torproject.org) 			| Network							|
 --------------------------------------------------------------------------------------------------------------------
 Github Open-Source:
 | URL 								| Lang. 							|
