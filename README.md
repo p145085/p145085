@@ -9,7 +9,8 @@ Programmeringsspråk:
 --------------------------------------------------------------------------------------------------------------------
 Drömjobb:
 
-<a align="left">[The Internet Archive](https://archive.org)</a> 				<p align="right">(Data preservation -> huge storage arrays)</p>
+[The Internet Archive](https://archive.org)
+(Data preservation -> huge storage arrays)
 
 [Bahnhof](https://bahnhof.se) 						<p align="right">(Serverhall -> 'Pionen')</p>
 
