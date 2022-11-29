@@ -14,11 +14,11 @@ Programmeringsspråk:
 | Content Cell  | Content Cell  |
 
 Drömjobb:
-| URL | Desc. |
-| [The Internet Archive](https://archive.org) | (Data preservation -> huge storage arrays) |
-| [Bahnhof](https://bahnhof.se) | (Serverhall -> 'Pionen') |
-| [Tor Foundation](https://www.torproject.org) | (Network) |
-
+| URL 								| Desc. 							|
+| -------------------------------------------------------------	| -------------------------------------------------------------	|
+| [The Internet Archive](https://archive.org) 			| (Data preservation -> huge storage arrays) 			|
+| [Bahnhof](https://bahnhof.se) 				| (Serverhall -> 'Pionen') 					|
+| [Tor Foundation](https://www.torproject.org) 			| (Network) 							|
 --------------------------------------------------------------------------------------------------------------------
 Github Open-Source:
 
