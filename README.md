@@ -9,14 +9,11 @@ Programmeringsspråk:
 --------------------------------------------------------------------------------------------------------------------
 Drömjobb:
 
-[The Internet Archive](https://archive.org)
-(Data preservation -> huge storage arrays)
+| [The Internet Archive](https://archive.org) | (Data preservation -> huge storage arrays) |
 
-[Bahnhof](https://bahnhof.se)
-(Serverhall -> 'Pionen')
+| [Bahnhof](https://bahnhof.se) | (Serverhall -> 'Pionen') |
 
-[Tor Foundation](https://www.torproject.org)
-(Network)
+| [Tor Foundation](https://www.torproject.org) | (Network) |
 
 --------------------------------------------------------------------------------------------------------------------
 Github Open-Source:
