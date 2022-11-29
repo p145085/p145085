@@ -8,15 +8,14 @@ Programmeringsspråk:
 	- Bash
 --------------------------------------------------------------------------------------------------------------------
 Drömjobb: 
-
 [The Internet Archive](https://archive.org) 				(Data preservation -> huge storage arrays)
 
 [Bahnhof](https://bahnhof.se) 						(Serverhall -> 'Pionen')
 
 [Tor Foundation](https://www.torproject.org) 				(Network)
+
 --------------------------------------------------------------------------------------------------------------------
 Github Open-Source:
-
 [IRSSI](https://github.com/irssi/irssi)					C
 
 [Hydrus Network](https://github.com/hydrusnetwork)			Python
