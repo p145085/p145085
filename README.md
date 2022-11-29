@@ -1,20 +1,20 @@
 ![](https://c.tenor.com/PETBj_OJmJUAAAAC/leekspin.gif)
 --------------------------------------------------------------------------------------------------------------------
-###Programmeringsspråk:
+###Programmeringsspråk:###
 
 	- C#
 	- HTML, CSS, JS, MySQL
 	- Java
 	- Bash
 --------------------------------------------------------------------------------------------------------------------
-###Drömjobb:
+###Drömjobb:###
 | URL 								| Desc. 							|
 | -------------------------------------------------------------	| -------------------------------------------------------------	|
 | [The Internet Archive](https://archive.org) 			| Data preservation -> Huge storage arrays 			|
 | [Bahnhof](https://bahnhof.se) 				| Serverhall -> 'Pionen' -> Bunker				|
 | [Tor Foundation](https://www.torproject.org) 			| Network							|
 --------------------------------------------------------------------------------------------------------------------
-###Github Open-Source:
+###Github Open-Source:###
 | URL 								| Lang. 							|
 | -------------------------------------------------------------	| -------------------------------------------------------------	|
 | [IRSSI](https://github.com/irssi/irssi)			| C								|
@@ -24,7 +24,7 @@
 | [ClassicUO](https://github.com/ClassicUO/ClassicUO)		| C#								|
 | [Storj](https://github.com/storj/storj)			| Go								|
 --------------------------------------------------------------------------------------------------------------------
-###Egna projekt.
+###Egna projekt:###
 
 	Alienaa klon.
 		Web-Development.
@@ -74,7 +74,7 @@
 		Web-Development
 		Hemsida för översikt av min 'my_characters'-databas.
 --------------------------------------------------------------------------------------------------------------------
-###Mitt nätverk.
+###Mitt nätverk:###
 
 	Local:
 		Router.
