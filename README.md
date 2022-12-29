@@ -13,6 +13,7 @@
 | [The Internet Archive](https://archive.org) 			| Data preservation -> Huge storage arrays 			|
 | [Bahnhof](https://bahnhof.se) 				| Serverhall -> 'Pionen' -> Bunker				|
 | [Tor Foundation](https://www.torproject.org) 			| Network							|
+| [CCP Games](https://www.ccpgames.com/) 			| Open-world Videogame						|
 -------------------------------------------------------------------------------------------------------------------------------
 ### Github Open-Source:
 | URL 								| Lang. 							|
