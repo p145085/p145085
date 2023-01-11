@@ -6,28 +6,28 @@
 	- HTML, CSS, JS, MySQL
 	- Java
 	- Bash
--------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------
 ### Drömjobb:
-| URL 								| Desc. 							|
-| -------------------------------------------------------------	| -------------------------------------------------------------	|
-| [The Internet Archive](https://archive.org) 			| Data preservation -> Huge storage arrays 			|
-| [Bahnhof](https://bahnhof.se) 				| Serverhall -> 'Pionen' -> Bunker				|
-| [Tor Foundation](https://www.torproject.org) 			| Network							|
-| [CCP Games](https://www.ccpgames.com/) 			| Open-world Videogame						|
--------------------------------------------------------------------------------------------------------------------------------
+| URL 						| Desc. 		|
+| ----------------------------------------------|-----------------------|
+| [The Internet Archive](https://archive.org) 	| Data preservation	|
+| [Bahnhof](https://bahnhof.se) 		| Privacy-conscious	|
+| [Tor Foundation](https://www.torproject.org) 	| Network architecture	|
+| [CCP Games](https://www.ccpgames.com/) 	| Open-world MMO	|
+-------------------------------------------------------------------------------------------------
 ### Github Open-Source:
-| URL 								| Lang. 							|
-| -------------------------------------------------------------	| -------------------------------------------------------------	|
-| [IRSSI](https://github.com/irssi/irssi)			| C								|
-| [Hydrus Network](https://github.com/hydrusnetwork)		| Python							|
-| [Cat9](https://github.com/letoram/cat9) 			| LUA								|
-| [ServUO](https://github.com/ServUO/ServUO) 			| C#								|
-| [ClassicUO](https://github.com/ClassicUO/ClassicUO)		| C#								|
-| [Storj](https://github.com/storj/storj)			| Go								|
--------------------------------------------------------------------------------------------------------------------------------
-### Egna projekt:
+| URL 							| Desc.					| Lang. |
+| ------------------------------------------------------|---------------------------------------|-------|
+| [IRSSI](https://github.com/irssi/irssi)		| CLI IRC client			| C	|
+| [Hydrus Network](https://github.com/hydrusnetwork)	| IMG gallery				| Python|
+| [Cat9](https://github.com/letoram/cat9) 		| Shell					| LUA	|
+| [ServUO](https://github.com/ServUO/ServUO) 		| UO Game server			| C#	|
+| [ClassicUO](https://github.com/ClassicUO/ClassicUO)	| UO Game client			| C#	|
+| [Storj](https://github.com/storj/storj)		| Decentralized storage solution	| Go	|
+-------------------------------------------------------------------------------------------------
+### Back-log:
 
-	Alienaa klon.
+	Alienaa.com klon.
 		Web-Development.
 	
 	chumbucket & Associates
