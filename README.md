@@ -1,13 +1,13 @@
 ![](https://c.tenor.com/PETBj_OJmJUAAAAC/leekspin.gif)
 -------------------------------------------------------------------------------------------------------------------------------
-### Programmeringsspråk:
+### Languages:
 
-	- C#
-	- HTML, CSS, JS, MySQL
-	- Java
-	- Bash
+	- C# <- Primary language.
+	- Bash <- Most desirable language.
+	- HTML, CSS, JS, MySQL <- Knowledgable in.
+	- Java <- Beginner level. 
 -------------------------------------------------------------------------
-### Drömjobb:
+### Work-prospects:
 | URL 						| Desc. 		|
 | ----------------------------------------------|-----------------------|
 | [The Internet Archive](https://archive.org) 	| Data preservation	|
@@ -27,23 +27,23 @@
 -------------------------------------------------------------------------------------------------
 ### Back-log:
 
-	Alienaa.com klon.
+	Alienaa.com clone.
 		Web-Development.
 	
 	chumbucket & Associates
 		Web-Development.
-		Tales of Adventure galleri/blogg
+		Tales of Adventure gallery/blog
 		Forum
 		
-	Plugin för 'Civilization'-streamers på Twitch. (Dela game-seed till chatten)
+	'Civilization'-plugin for Twitch -> Share game-seeds to chat seamlessly.
 		Memory-extraction.
 	
 	ClassicUO
 		C#
-		Diagonal 'Energy Field' + 'Wall of Stone'.
+		*a - Diagonal 'Energy Field' + 'Wall of Stone'.
 			Always perpendicular placement relative to player direction.
-				Currently you get stuck trying to walk diagonally past one. Fix.
-		Make it possible to walk off Z-heights to the north and west.
+				Currently you get stuck trying to walk diagonally past one. 
+		*b - Make it possible to walk off Z-heights to the north and west.
 		
 	Discord
 		Multiple chat-windows open simultaneously. (Like cascading windows in IRC).					
@@ -72,45 +72,6 @@
 		Turn any chat-client into a transparent overlay for chat presentation always-available.	
 		
 	my_characters
-		Web-Development
-		Hemsida för översikt av min 'my_characters'-databas.
--------------------------------------------------------------------------------------------------------------------------------
-### Mitt nätverk:
-
-	Local:
-		Router.
-			Dynamic DNS.
-	
-		Gaming-dator.
-			Wireguard VPN
-			Synergy (Symless.com)
-			
-		Laptop.
-			Wireguard VPN.
-			
-		Server.
-			TrueNAS Scale.
-				ZFS:
-					Striped pool. 	1 Disk. 	Total: 1,76 TiB
-					Mirrored pool. 	2 Disks. 	Total: 1,32 TiB
-					Raid-Z pool. 	3 Disks. 	Total: 1,75 TiB
-					(Boot device: Corsair Force Series MP500 120GB)
-			Wireguard VPN
-			'Storj'-node
-			Plex Media Server
-			
-		Raspberry Pi m. Touch-Display.
-			GNU Screen
-			Wireguard VPN
-			Discord
-			IRSSI
-			Synergy (Symless.com)
-			
-		Raspberry Pi.
-			Wireguard VPN
-			Pi-hole.
-		
-	Off-site:
-		https://emilajohansson.se
-			Wordpress-blogg.
+		Web-Development + MySQL
+		Insight into gaming habits.
 -------------------------------------------------------------------------------------------------------------------------------
