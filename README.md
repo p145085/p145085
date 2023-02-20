@@ -7,13 +7,14 @@
 	- HTML, CSS, JS, MySQL <- Knowledgable in.
 	- Java <- Beginner level. 
 -------------------------------------------------------------------------
-### Work-prospects:
+### Special mentions of workplaces I would like to work at:
 | URL 						| Desc. 		|
 | ----------------------------------------------|-----------------------|
 | [The Internet Archive](https://archive.org) 	| Data preservation	|
 | [Bahnhof](https://bahnhof.se) 		| Privacy-conscious	|
 | [Tor Foundation](https://www.torproject.org) 	| Network architecture	|
 | [CCP Games](https://www.ccpgames.com/) 	| Open-world MMO	|
+| [Google](https://www.google.com/) 		| Mapping the web	|
 -------------------------------------------------------------------------------------------------
 ### Github Open-Source:
 | URL 							| Desc.					| Lang. |
@@ -25,53 +26,9 @@
 | [ClassicUO](https://github.com/ClassicUO/ClassicUO)	| UO Game client			| C#	|
 | [Storj](https://github.com/storj/storj)		| Decentralized storage solution	| Go	|
 -------------------------------------------------------------------------------------------------
-### Back-log:
+### The way forward:
 
-	Alienaa.com clone.
-		Web-Development.
-	
-	chumbucket & Associates
-		Web-Development.
-		Tales of Adventure gallery/blog
-		Forum
-		
-	'Civilization'-plugin for Twitch -> Share game-seeds to chat seamlessly.
-		Memory-extraction.
-	
-	ClassicUO
-		C#
-		*a - Diagonal 'Energy Field' + 'Wall of Stone'.
-			Always perpendicular placement relative to player direction.
-				Currently you get stuck trying to walk diagonally past one. 
-		*b - Make it possible to walk off Z-heights to the north and west.
-		
-	Discord
-		Multiple chat-windows open simultaneously. (Like cascading windows in IRC).					
-		
-	Imageboard
-		Web-Development
-		Keep chatting to the chat-clients and let meme-sharing happen on private imageboards.
-	
-	Party-finder
-		Web-Development
-		Repository of user-submitted player characters.
-		Feature to connect players looking for activities in-game (of many games).
-	
-	Path of Exile
-		Import stash and inventory in search of 'gems' and present builds you can build.			
-		
-	Quake Live
-		.dem file parser.
-			Produce a text document with timestamps of kills, multi-kills, killing sprees.			
-			
-	MyUO
-		Web-Development + C#
-		Retrieve game objects (players) and allow navigation of players on "shard x" on web.
-		
-	Chat-overlay
-		Turn any chat-client into a transparent overlay for chat presentation always-available.	
-		
-	my_characters
-		Web-Development + MySQL
-		Insight into gaming habits.
+	I want to learn how to index the web. (i.e - develop a crawler/spider/robot). (see: Google).
+	Secondly I'd like to become proficient in networks, routing and firewalls to be suitable for work as a 'Network engineer' / 'System administrator' and to further develop an understanding of how to transfer data securely. 
+	Thirdly, because of the growing industry surrounding 'blockchain(s)' and 'DeFi' I would like to devote some time to this space. 
 -------------------------------------------------------------------------------------------------------------------------------
