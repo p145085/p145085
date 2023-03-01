@@ -32,3 +32,8 @@
 	Secondly I'd like to become proficient in networks, routing and firewalls to be suitable for work as a 'Network engineer' / 'System administrator' and to further develop an understanding of how to transfer data securely. 
 	Thirdly, because of the growing industry surrounding 'blockchain(s)' and 'DeFi' I would like to devote some time to this space. 
 -------------------------------------------------------------------------------------------------------------------------------
+### Education:
+
+	Lexicon, Växjö - 6 mon. Full-stack development Java.
+	Lexicon, Växjö - 6 mon. Full-stack development C#.
+	Hermods, Malmö - 3 y. Senior high-school [7 + (1) IT/Comp. sci courses].
