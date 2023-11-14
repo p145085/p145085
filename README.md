@@ -1,17 +1,17 @@
 ![](https://c.tenor.com/PETBj_OJmJUAAAAC/leekspin.gif)
 -------------------------------------------------------------------------------------------------------------------------------
-### Languages:
+### Språk:
 
-	- C# <- Primary language.
-	- Bash <- Most desirable language.
-	- HTML, CSS, JS, MySQL <- Knowledgable in.
-	- Java <- Beginner. 
- 	- Python <- Decent grasp.
+	- C# <- Primär.
+	- Bash <- Önskvärt.
+	- HTML, CSS, JS, MySQL <- Erfaren inom.
+	- Java <- Nybörjare. 
+ 	- Python <- Medioker.
 -------------------------------------------------------------------------------------------------------------------------------
-### Education:
+### Utbildning:
 
-	Lexicon, Växjö - 6 mon. Full-stack development Java.
-	Lexicon, Växjö - 6 mon. Full-stack development C#.
-	Hermods, Malmö - 3 y. Senior high-school [7 + (1) IT/Comp. sci courses].
+	Lexicon, Växjö - 6 mån. Full-stack utveckling - Java.
+	Lexicon, Växjö - 6 mån. Full-stack utveckling - C#.
+	Hermods, Malmö - 3 år. Gymnasie [7 + (1) IT kurser].
 -------------------------------------------------------------------------------------------------------------------------------
 
