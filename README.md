@@ -1,7 +1,6 @@
 
 # 💫 About Me:
-Did web-development in early teens and made a few websites, nothing major. <br>Went to school for Java and C# programming and made very basic software. <br>Know a little of a lot. Modern code analyzers help a lot these days.
-
+Did web-development in early teens and made a few websites. <br>Went to school for Java and C# programming. <br>Know a little of a lot. Modern code analyzers / LLMs / AIs help a lot. <br> Struggle to find a project worthwhile to work on because if I need something I find it by googling for a minute.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/johanssonemil/) 
