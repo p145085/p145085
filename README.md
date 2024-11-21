@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Did web-development in early teens and made a few websites. <br>Went to school for Java and C# programming. <br>Know a little of a lot. Modern code analyzers / LLMs / AIs help a lot. <br> Struggle to find a project worthwhile to work on because if I need something I find it by googling for a minute.
+Done web-development as a hobby during school years. 2022 and 2023 I studied Java and C# programming. Enjoy data analytics. Currently playing with Python.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/johanssonemil/) 
