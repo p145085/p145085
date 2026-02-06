@@ -17,8 +17,8 @@ Jag bygger broar mellan komplex teknik och praktiska affärslösningar. Mitt fok
 - **Övrigt:** Systemintegration, Datasäkerhet & Backup-strategier
 
 ## 📊 Statistik & Aktivitet
-![Emils GitHub Stats](https://github-readme-stats.vercel.app/api?username=p145085&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p145085&layout=compact&theme=radical)
+![GitHub Statistik](https://github-readme-stats.vercel.app/api?username=p145085&show_icons=true&theme=radical)
+![Topp-språk](https://github-readme-stats.vercel.app/api/top-langs/?username=p145085&layout=compact&theme=radical)
 
 ---
 
