@@ -1,13 +1,32 @@
+# Hej! Jag är Emil Johansson 👋
 
-# 💫 About Me:
-Done web-development as a hobby during school years. 
+### Certifierad Programmerare & IT-konsult
+Jag bygger broar mellan komplex teknik och praktiska affärslösningar. Mitt fokus ligger på webbutveckling, automatisering med AI och att skapa pålitliga system för småföretag.
 
-2022 and 2023 I studied Java and C# programming. 
+---
 
-Enjoy data analytics. 
+## 🛠 Det här arbetar jag med just nu:
+- 🌐 **Webbutveckling:** Skapar responsiva och säljande hemsidor i React, Next.js och Tailwind CSS.
+- 🤖 **AI-integrationer:** Bygger skräddarsydda lösningar med OpenAI API och automatiserade arbetsflöden.
+- 📱 **Teknisk Support:** Dokumentation och verktyg för hårdvarureparationer och systemunderhåll.
 
-Currently playing with Python.
+## 🚀 Teknisk Stack:
+- **Språk:** JavaScript, TypeScript, Python, HTML/CSS, C#
+- **Ramverk:** React, Next.js, Node.js
+- **Verktyg:** Git, Docker, OpenAI API, Supabase/Firebase
+- **Övrigt:** Systemintegration, Datasäkerhet & Backup-strategier
 
+## 📊 Statistik & Aktivitet
+![Emils GitHub Stats](https://github-readme-stats.vercel.app/api?username=p145085&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p145085&layout=compact&theme=radical)
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=plastic&logo=plex&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=plastic&logo=wireguard&logoColor=white)
+---
+
+## 📬 Kontakta mig:
+- 🌍 **Hemsida:** [emiljohansson.info](https://emiljohansson.info)
+- 💼 **LinkedIn:** [[linkedin.com/in/johanssonemil](https://www.linkedin.com/in/johanssonemil/)
+- 📧 **E-post:** [emil@emiljohansson.info](mailto:emil@emiljohansson.info)
+- 📺 **YouTube:** [Guider och annat kommer inom kort.]
+
+---
+*"Teknik ska spara tid, inte skapa frustration."*
