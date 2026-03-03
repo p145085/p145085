@@ -24,7 +24,7 @@ Jag bygger broar mellan komplex teknik och praktiska affärslösningar. Mitt fok
 
 ## 📬 Kontakta mig:
 - 🌍 **Hemsida:** [emiljohansson.info](https://emiljohansson.info)
-- 💼 **LinkedIn:** [[linkedin.com/in/johanssonemil](https://www.linkedin.com/in/johanssonemil/)
+- 💼 **LinkedIn:** [linkedin.com/in/johanssonemil](https://www.linkedin.com/in/johanssonemil/)
 - 📧 **E-post:** [emil@emiljohansson.info](mailto:emil@emiljohansson.info)
 - 📺 **YouTube:** [Guider och annat kommer inom kort.]
 
